@@ -1,0 +1,3 @@
+# Hi
+
+This is the update site. Point your target platform to it.
